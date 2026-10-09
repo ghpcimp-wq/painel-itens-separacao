@@ -1,0 +1,13 @@
+{
+ "dias": [
+  {
+   "data": "2026-10-08",
+   "itens": 361,
+   "pedidos": 87,
+   "valor": 155558.45,
+   "itens_pend": 81,
+   "pedidos_pend": 20,
+   "valor_pend": 48726.16
+  }
+ ]
+}
